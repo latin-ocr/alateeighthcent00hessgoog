@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./alateeighthcent00hessgoog_0003.png"; bbox 0 0 833 1650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 205 249 362">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 205 249 362">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 205 224 362; baseline 0.006 -93"><span class='ocrx_word' id='word_1_1' title='bbox 43 205 108 362; x_wconf 54' lang='grc' dir='ltr'><strong><em>Γ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 121 239 224 276; x_wconf 61' lang='lat'>4733?</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 129 275 249 312; baseline 0.008 -4"><span class='ocrx_word' id='word_1_3' title='bbox 129 280 152 312; x_wconf 71' lang='grc' dir='ltr'>Η</span> <span class='ocrx_word' id='word_1_4' title='bbox 161 285 212 309; x_wconf 67' lang='grc' dir='ltr'>εεπ</span> <span class='ocrx_word' id='word_1_5' title='bbox 224 275 249 309; x_wconf 72' lang='lat' dir='ltr'>L</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 216 508 656 1154">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 216 508 656 1154">
+     <span class='ocr_line' id='line_1_3' title="bbox 216 508 656 1154; baseline 0 496"><span class='ocrx_word' id='word_1_6' title='bbox 216 508 656 1154; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
